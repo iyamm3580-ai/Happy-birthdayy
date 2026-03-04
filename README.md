@@ -5,7 +5,7 @@ Happy birthday greeting page
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Happy Birthday Kaka 🎂</title>
+<title>Happy Birthday teh nita 🎂</title>
 
 <style>
 body {
@@ -100,7 +100,7 @@ button:hover {
 <div class="container">
     <div class="card">
         <div class="cake">🎂🎉</div>
-        <h2>Selamat Ulang Tahun Kaka 💖</h2>
+        <h2>Selamat Ulang Tahun teh nita 💖</h2>
 
         <input type="text" id="nama" placeholder="Masukkan Nama Kaka">
         <br>
