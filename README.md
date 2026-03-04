@@ -1,11 +1,11 @@
 # Happy-birthdayy
-Happy birthday greeting page
+Happy birthday 🎉
 <!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Happy Birthday teh nita 🎂</title>
+<title>Happy Birthday 🎂</title>
 
 <style>
 body {
@@ -100,7 +100,7 @@ button:hover {
 <div class="container">
     <div class="card">
         <div class="cake">🎂🎉</div>
-        <h2>Selamat Ulang Tahun teh nita 💖</h2>
+        <h2>happ birthday</h2>
 
         <input type="text" id="nama" placeholder="Masukkan Nama Kaka">
         <br>
@@ -122,10 +122,10 @@ function tampilkanUcapan() {
     }
 
     var teks = `
-    🎉 Selamat Ulang Tahun ${nama}! 🎂✨ <br><br>
+    🎉 Selamat Ulang Tahun teh ${nama}! 🎂✨ <br><br>
     Semoga panjang umur, sehat selalu, banyak rezeki dan bahagia terus 💖<br><br>
     Sekarang sudah makin tua nih 😜 uban mulai muncul 🤭<br>
-    Tapi tetap jadi kaka terbaik sedunia ❤️🔥
+    tetap jadi orang baik oke 🔥
     `;
 
     document.getElementById("isiUcapan").innerHTML = teks;
